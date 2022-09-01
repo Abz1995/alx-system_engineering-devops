@@ -1,2 +1,1 @@
-#!/bin/bash
-alx-system_engineering-devops/n
+Le programme du rspectorie
