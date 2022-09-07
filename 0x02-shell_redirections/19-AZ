@@ -1,4 +1,2 @@
 #!/bin/bash
-tr AC Ze 
-#!/bin/bash
 tr "A" "Z" | tr "c" "e" 
